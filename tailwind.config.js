@@ -7,6 +7,9 @@ export default {
       secondary: "#1DC264",
       background: "#ECE8EE",
     },
+    fontFamily: {
+      montserrat: ["Montserrat", "sans-serif"],
+    },
     extend: {},
   },
   plugins: [],
