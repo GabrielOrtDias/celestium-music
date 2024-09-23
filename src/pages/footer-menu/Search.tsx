@@ -1,3 +1,11 @@
+import { Footer } from "../../components/Footer";
+import { Header } from "../../components/Header";
+
 export default function Search() {
-  return <h1>search</h1>;
+  return (
+    <div>
+      <Header />
+      <Footer />
+    </div>
+  );
 }

@@ -1,0 +1,39 @@
+{
+  "musicas": [
+    {
+      "id": 1,
+      "nome": "Creep",
+      "artist": "Radiohead",
+      "link_musica": "https://github.com/GabrielOrtDias/CelestiumCloud/raw/refs/heads/main/Creep.mp3",
+      "link_cover": "https://raw.githubusercontent.com/GabrielOrtDias/CelestiumCloud/refs/heads/main/Creep.jpg  "
+    },
+    {
+      "id": 2,
+      "nome": "Duality",
+      "artist": "Slipknot",
+      "link_musica": "https://github.com/GabrielOrtDias/CelestiumCloud/raw/refs/heads/main/Duality.mp3",
+      "link_cover": "https://raw.githubusercontent.com/GabrielOrtDias/CelestiumCloud/refs/heads/main/Duality.jpeg"
+    },
+    {
+      "id": 3,
+      "nome": "No surprises",
+      "artist": "Radiohead",
+      "link_musica": "https://github.com/GabrielOrtDias/CelestiumCloud/raw/refs/heads/main/noSurprises.mp3",
+      "link_cover": "https://raw.githubusercontent.com/GabrielOrtDias/CelestiumCloud/refs/heads/main/noSurprises.jpeg"
+    },
+    {
+      "id": 4,
+      "nome": "Not Allowed",
+      "artist": "TV Girl",
+      "link_musica": "https://github.com/GabrielOrtDias/CelestiumCloud/raw/refs/heads/main/notAllowed.mp3",
+      "link_cover": "https://raw.githubusercontent.com/GabrielOrtDias/CelestiumCloud/refs/heads/main/notAllowed.png"
+    },
+    {
+      "id": 5,
+      "nome": "New person same old mistake",
+      "artist": "Tame Impala",
+      "link_musica": "https://github.com/GabrielOrtDias/CelestiumCloud/raw/refs/heads/main/newPersonSameOldMistake.mp3",
+      "link_cover": "https://raw.githubusercontent.com/GabrielOrtDias/CelestiumCloud/refs/heads/main/newPersonSameOldMistake.jpeg"
+    }
+  ]
+}

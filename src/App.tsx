@@ -6,14 +6,16 @@ import Playlist from "./pages/footer-menu/Playlist";
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="" element={<Search />} />
-        <Route path="" element={<Playlist />} />
-      </Routes>
-    </Router>
+    <div className="bg-background h-screen w-screen">
+      <Router>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/search" element={<Search />} />
+          <Route path="/playlist" element={<Playlist />} />
+        </Routes>
+      </Router>
+    </div>
   );
 }
 
